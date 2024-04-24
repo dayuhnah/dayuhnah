@@ -54,3 +54,12 @@ The project provides insights into various concepts and techniques, including:
 ---
 
 This README offers a summary of the project, outlining its goals, approaches, and main discoveries. For in-depth insights and code explanations, please refer to the individual source files available in the repository.
+
+## References
+
+- https://www.kdnuggets.com/2023/07/pandas-onehot-encode-data.html
+- https://contrib.scikit-learn.org/category_encoders/targetencoder.html
+- https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/
+- https://www.analyticsvidhya.com/blog/2021/11/training-neural-network-with-keras-and-basics-of-deep-learning/
+- https://github.com/tensorflow/tensorflow
+
